@@ -80,7 +80,7 @@ def P_one_page(url):
                 dr = pldy
                 acs = plzy
                 oi = plqt
-            tem_info=Info(mn,on,geturl,dr,acs,oi)
+            tem_info=Info(mn, on, geturl, dr, acs, oi)
             page_list.append(tem_info)
     return page_list
 
